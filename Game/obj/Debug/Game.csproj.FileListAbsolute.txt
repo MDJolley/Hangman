@@ -1,0 +1,6 @@
+C:\Users\Mikoo\source\repos\PairProgramming_ConsoleGame\Game\bin\Debug\Game.exe.config
+C:\Users\Mikoo\source\repos\PairProgramming_ConsoleGame\Game\bin\Debug\Game.exe
+C:\Users\Mikoo\source\repos\PairProgramming_ConsoleGame\Game\bin\Debug\Game.pdb
+C:\Users\Mikoo\source\repos\PairProgramming_ConsoleGame\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Mikoo\source\repos\PairProgramming_ConsoleGame\Game\obj\Debug\Game.exe
+C:\Users\Mikoo\source\repos\PairProgramming_ConsoleGame\Game\obj\Debug\Game.pdb
